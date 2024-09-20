@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ACEVS</title>
-    <link>https://acevs.github.io/</link>
-    <description>Recent content on ACEVS</description>
+    <title>Tests on ACEVS</title>
+    <link>https://acevs.github.io/test/</link>
+    <description>Recent content in Tests on ACEVS</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Sep 2024 10:01:01 +0800</lastBuildDate>
-    <atom:link href="https://acevs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acevs.github.io/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstblog</title>
       <link>https://acevs.github.io/test/firstblog/</link>
